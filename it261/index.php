@@ -95,6 +95,21 @@
 <li><a href ="weeks/week7/string.php">string.php</a></li>
 </ol>
 
+<h3>Week 8</h3>
+<ol>
+<li><a href ="weeks/week8/people.php">people.php</a></li>
+<li><a href ="weeks/week8/config.php">config.php</a></li>
+<li><a href ="weeks/week8/credentials.php">credentials.php</a></li>
+<li><a href ="weeks/week8/people-view.php">people-view.php</a></li>
+</ol>
+
+
+<h3>Week 9</h3>
+<ol>
+<li><a href ="weeks/week9/register.php">register.php</a></li>
+<li><a href ="weeks/week9/login.php">login.php</a></li>
+<li><a href ="weeks/week8/index.php">index.php</a></li>
+</ol>
 
 
 </aside>
